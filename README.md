@@ -3,3 +3,5 @@ Each `.py` file with the name f a fractal is a piece of code where the points th
 All such file have the exact same construction pattern and function names nomenclatures. I may create a code that will generate these file automatically from the bare necessities (i.e. the curve name and the function that gives the new points for a given edge)
 
 The `display.py` file is used only to have better display and for code clarity.
+
+It is possible to export each set of points, for each fractal curve and each step of the algorithm. It is formatted as a csv file and stored into a directory with explicit nomenclature.
